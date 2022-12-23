@@ -1,12 +1,15 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=083657&height=300&text=mihyunLee&fontColor=fff&fontSize=80&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=F1948A&height=300&text=mihyunLee&fontColor=fff&fontSize=80&animation=twinkling)
 
   ### Hi, there! I'm mihyunLee👋
-
+  
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmihyunLee&count_bg=%23656565&title_bg=%23EC407A&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=mihyunLee&show_icons=true&theme=nord" width=50% />
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=mihyunLee&show_icons=true&theme=calm" width=50% />
     </a>
     
   ### 🛠️ Technology Stack 🛠️
@@ -22,7 +25,7 @@
   <br>
 
    <a href="https://github.com/devpla/github-stats-transparent">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihyunLee&layout=compact&theme=nord" width=50% />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihyunLee&layout=compact&theme=calm" width=50% />
     </a>
 
   <br><br>
